@@ -3,8 +3,8 @@ sagecell-module
 
 A repository for the Drupal (7.x) module - 'Sage Cell field'
 
-Module's purpose
-================
+the module's purpose
+====================
 
 Adds 'Sage Cell field' to the user's available form fields. The Sage Cell field will create a Sage Cell field
 widget (edit form) and a Sage Cell field output (formatted view when rendered on a normal page: viewed by a user).
